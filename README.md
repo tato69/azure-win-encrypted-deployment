@@ -1,0 +1,1 @@
+# azure-win-encrypted-deployment
