@@ -1,0 +1,1 @@
+resource_group='ariso001-test'
